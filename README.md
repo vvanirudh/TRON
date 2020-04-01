@@ -1,9 +1,16 @@
-# TRON: A Fast Solver for Trajectory Optimization with Non-smooth Cost Functions
+# [TRON: A Fast Solver for Trajectory Optimization with Non-smooth Cost Functions](https://arxiv.org/abs/2003.14393)
 
 If you are using this code, please cite our work using the following BIBTEX citation:
 
 ```
-bibtex citation here
+@misc{vemula2020tron,
+    title={TRON: A Fast Solver for Trajectory Optimization with Non-Smooth Cost Functions},
+    author={Anirudh Vemula and J. Andrew Bagnell},
+    year={2020},
+    eprint={2003.14393},
+    archivePrefix={arXiv},
+    primaryClass={cs.RO}
+}
 ```
 
 ## Install Dependencies
