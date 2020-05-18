@@ -3,13 +3,20 @@
 If you are using this code, please cite our work using the following BIBTEX citation:
 
 ```
-@misc{vemula2020tron,
-    title={TRON: A Fast Solver for Trajectory Optimization with Non-Smooth Cost Functions},
-    author={Anirudh Vemula and J. Andrew Bagnell},
-    year={2020},
-    eprint={2003.14393},
-    archivePrefix={arXiv},
-    primaryClass={cs.RO}
+@article{DBLP:journals/corr/abs-2003-14393,
+  author    = {Anirudh Vemula and
+               J. Andrew Bagnell},
+  title     = {{TRON:} {A} Fast Solver for Trajectory Optimization with Non-Smooth
+               Cost Functions},
+  journal   = {CoRR},
+  volume    = {abs/2003.14393},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2003.14393},
+  archivePrefix = {arXiv},
+  eprint    = {2003.14393},
+  timestamp = {Thu, 02 Apr 2020 15:34:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-14393.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
